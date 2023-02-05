@@ -1,5 +1,5 @@
 
-def main():
+def main_steve():
     print("bye")
 
-main     
+main_steve     
