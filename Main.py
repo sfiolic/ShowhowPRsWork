@@ -1,5 +1,5 @@
 
 def main():
-    print("bye")
+    print("RJ learns to SC")
 
 main     
